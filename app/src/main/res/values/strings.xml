@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="pincode">pincode</string>
+    <string name="last_visit">last_visit</string>
+    <string name="mismatch_counter">mismatch_counter</string>
+    <string name="block_till">block_till</string>
+    <string name="pincode_view">pincode_view</string>
+    <string name="home_view">home_view</string>
+    <string name="input_pincode">Введите пинкод</string>
+    <string name="pincode_blocked">Заблокировано до:</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="incorrect_pincode">Неверный пинкод</string>
+    <string name="come_up_with_pin_code">Придумайте пинкод</string>
+    <string name="repeat_pin_code">Повторите пинкод</string>
+    <string name="no_match">Пинкоды не совпадают!</string>
+    <string name="match">Пинкод сохранён</string>
+    <string name="next">Далее</string>
+    <string name="update">Обновить</string>
+    <string name="error_occurred">Произошла ошибка: </string>
+    <string name="internet_issue">Пожалуйста, включите интернет и предоставьте все разрешения</string>
+    <string name="zero">0</string>
+    <string name="empty"/>
+    <string name="limit">limit</string>
+    <string name="photos">photos</string>
+    <string name="record_view">record_view</string>
+    <string name="url">url</string>
+    <string name="user">user</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+</resources>
